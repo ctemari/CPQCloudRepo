@@ -4,6 +4,6 @@ resource "azurerm_resource_group" "myterraformgroup" {
     location = "eastus"
 
     tags = {
-        environment = "Terraform Demo"
+        environment = "Terraform CPQ"
     }
 }
